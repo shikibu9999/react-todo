@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shikibu9999/react-todo.git/static/css/main.17c3e4be.css",
+    "main.js": "/shikibu9999/react-todo.git/static/js/main.1f309bfc.js",
+    "index.html": "/shikibu9999/react-todo.git/index.html",
+    "main.17c3e4be.css.map": "/shikibu9999/react-todo.git/static/css/main.17c3e4be.css.map",
+    "main.1f309bfc.js.map": "/shikibu9999/react-todo.git/static/js/main.1f309bfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17c3e4be.css",
+    "static/js/main.1f309bfc.js"
+  ]
+}
